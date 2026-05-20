@@ -6,10 +6,10 @@
 <h3 align="center">Java Full Stack Developer | Aspiring Cloud Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://github.com/Blackrose143"><img src="https://img.shields.io/github/followers/Blackrose143?label=Followers&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/ragunath-av/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:rragu438@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://leetcode.com/Blackrose143"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
 
 ---
@@ -50,22 +50,22 @@
 
 ## 📊 LeetCode Stats  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Baloo" />
-</p>
+  <img src="https://leetcard.jacoblin.cool/Blackrose143?theme=dark&font=Baloo" />
+</p> 
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blackrose143&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blackrose143&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🟩 GitHub Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blackrose143&theme=tokyo-night" />
 </p>
 
 ---
@@ -79,10 +79,10 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: **YOUR_EMAIL@gmail.com**  
-- 💼 LinkedIn: **https://www.linkedin.com/in/YOUR_LINKEDIN/**  
-- 🧑‍💻 GitHub: **https://github.com/YOUR_USERNAME**  
-- 🏆 LeetCode: **https://leetcode.com/YOUR_LEETCODE**
+- 📧 Email: **rragu438@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/ragunath-av/**  
+- 🧑‍💻 GitHub: **https://github.com/Blackrose143**  
+- 🏆 LeetCode: **https://leetcode.com/Blackrose143**
 
 ---
 
